@@ -1,0 +1,21 @@
+{
+  "id": "web-dev",
+  "title": "Custom API & Payment Gateway Integration",
+  "clientName": "Acme Ventures LLC",
+  "contractRef": "MSA-2026-084",
+  "hourlyRate": 95,
+  "estimatedHours": 24,
+  "rushMultiplier": 1.25,
+  "bufferPercentage": 15,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "scopeDescription": "Addition of Stripe Connect multi-vendor marketplace split payments, automated refund webhooks, and sandbox testing suite not included in original Statement of Work dated Aug 15, 2026.",
+  "deliverables": [
+    "Stripe Connect custom onboarding flow",
+    "Automated payment split & escrow logic",
+    "Webhook listener for payout failure alerts",
+    "End-to-end sandbox test verification report"
+  ],
+  "scheduleImpactDays": 6,
+  "paymentTerms": "50% upfront deposit upon execution of this Change Order, 50% upon deployment to staging."
+}

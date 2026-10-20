@@ -1,0 +1,20 @@
+{
+  "id": "ui-design",
+  "title": "Brand Design System & Dark Mode Extension",
+  "clientName": "Apex Media UK",
+  "contractRef": "DES-UK-902",
+  "hourlyRate": 75,
+  "estimatedHours": 18,
+  "rushMultiplier": 1.0,
+  "bufferPercentage": 10,
+  "currency": "GBP",
+  "currencySymbol": "\u00a3",
+  "scopeDescription": "Design of high-contrast Dark Mode tokens, 14 responsive component variants, and an interactive Figma prototype beyond the agreed 3 core wireframe revisions.",
+  "deliverables": [
+    "Complete Dark Mode color token palette",
+    "14 custom component UI states",
+    "Updated Figma interactive prototype"
+  ],
+  "scheduleImpactDays": 4,
+  "paymentTerms": "100% due upon delivery and Figma design asset handoff."
+}

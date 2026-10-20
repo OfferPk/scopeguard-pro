@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="100%" stop-color="#131b2e" />
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg2)"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="60" fill="#131b2e" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="25" y="14" width="32" height="32" rx="8" fill="url(#blueGrad)"/>
+  <text x="35" y="36" fill="#ffffff" font-family="Inter, sans-serif" font-weight="bold" font-size="18">🛡️</text>
+  <text x="70" y="37" fill="#ffffff" font-family="Inter, sans-serif" font-weight="bold" font-size="20">ScopeGuard Pro</text>
+  <rect x="235" y="19" width="95" height="22" rx="11" fill="rgba(37,99,235,0.2)"/>
+  <text x="246" y="34" fill="#60a5fa" font-family="Inter, sans-serif" font-weight="600" font-size="11">AGENCY EDITION</text>
+
+  <rect x="1030" y="14" width="145" height="32" rx="6" fill="#2563eb"/>
+  <text x="1045" y="34" fill="#ffffff" font-family="Inter, sans-serif" font-weight="bold" font-size="12">🖨️ Print / Save PDF</text>
+
+  <!-- Left Sidebar Mock -->
+  <rect x="0" y="60" width="480" height="640" fill="#131b2e" stroke="rgba(255,255,255,0.08)"/>
+  <text x="25" y="95" fill="#94a3b8" font-family="Inter, sans-serif" font-weight="bold" font-size="12">SCOPE &amp; PRICING PARAMETERS</text>
+  
+  <rect x="25" y="120" width="430" height="36" rx="6" fill="#0a0e17" stroke="rgba(255,255,255,0.1)"/>
+  <text x="35" y="143" fill="#ffffff" font-family="Inter, sans-serif" font-size="13">Custom API &amp; Payment Gateway Integration</text>
+
+  <rect x="25" y="170" width="205" height="36" rx="6" fill="#0a0e17" stroke="rgba(255,255,255,0.1)"/>
+  <text x="35" y="193" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="13">Acme Ventures LLC</text>
+
+  <rect x="250" y="170" width="205" height="36" rx="6" fill="#0a0e17" stroke="rgba(255,255,255,0.1)"/>
+  <text x="260" y="193" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="13">MSA-2026-084</text>
+
+  <!-- Metrics Strip -->
+  <rect x="520" y="80" width="200" height="70" rx="8" fill="#131b2e" stroke="rgba(255,255,255,0.08)"/>
+  <text x="535" y="105" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11" font-weight="600">ADDITIONAL INVESTMENT</text>
+  <text x="535" y="135" fill="#60a5fa" font-family="Inter, sans-serif" font-size="22" font-weight="800">$3,277.50</text>
+
+  <rect x="740" y="80" width="200" height="70" rx="8" fill="#131b2e" stroke="rgba(255,255,255,0.08)"/>
+  <text x="755" y="105" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11" font-weight="600">BILLABLE HOURS (BUFFERED)</text>
+  <text x="755" y="135" fill="#60a5fa" font-family="Inter, sans-serif" font-size="22" font-weight="800">27.6 hrs</text>
+
+  <rect x="960" y="80" width="200" height="70" rx="8" fill="#131b2e" stroke="rgba(255,255,255,0.08)"/>
+  <text x="975" y="105" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11" font-weight="600">SCHEDULE IMPACT</text>
+  <text x="975" y="135" fill="#60a5fa" font-family="Inter, sans-serif" font-size="22" font-weight="800">+6 Days</text>
+
+  <!-- Rendered Document Preview -->
+  <rect x="520" y="170" width="640" height="490" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="550" y="210" fill="#0f172a" font-family="Inter, sans-serif" font-size="18" font-weight="800">Change Order Addendum</text>
+  <text x="550" y="230" fill="#64748b" font-family="Inter, sans-serif" font-size="12">Addendum to Statement of Work (MSA-2026-084)</text>
+  <line x1="550" y1="245" x2="1130" y2="245" stroke="#0f172a" stroke-width="2"/>
+  <text x="550" y="275" fill="#1e293b" font-family="Inter, sans-serif" font-size="12" font-weight="bold">1. PURPOSE &amp; SCOPE MODIFICATION</text>
+  <text x="550" y="295" fill="#334155" font-family="Inter, sans-serif" font-size="11">Stripe Connect marketplace split payments, automated refund webhooks &amp; sandbox suite.</text>
+  <text x="550" y="335" fill="#1e293b" font-family="Inter, sans-serif" font-size="12" font-weight="bold">2. FINANCIAL SUMMARY</text>
+  <rect x="550" y="350" width="580" height="80" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="570" y="375" fill="#475569" font-family="Inter, sans-serif" font-size="11">Direct Technical Implementation (24 hrs @ $95/hr): $2,280.00</text>
+  <text x="570" y="395" fill="#475569" font-family="Inter, sans-serif" font-size="11">Contingency Buffer (15%) + Expedited Delivery (1.25x): $997.50</text>
+  <text x="570" y="415" fill="#0f172a" font-family="Inter, sans-serif" font-size="12" font-weight="bold">Total Approved Fixed Fee: $3,277.50</text>
+</svg>

@@ -1,0 +1,20 @@
+{
+  "id": "uae-enterprise",
+  "title": "Bilingual Arabic Localization & CRM Sync",
+  "clientName": "Gulf Horizon Properties (Dubai)",
+  "contractRef": "GHP-DXB-2026",
+  "hourlyRate": 350,
+  "estimatedHours": 32,
+  "rushMultiplier": 1.5,
+  "bufferPercentage": 20,
+  "currency": "AED",
+  "currencySymbol": "AED ",
+  "scopeDescription": "Implementation of right-to-left (RTL) Arabic typography rendering, Salesforce CRM lead bi-directional sync, and WhatsApp Business API instant notification triggers.",
+  "deliverables": [
+    "Full RTL layout stylesheet adaptation",
+    "Salesforce REST API bi-directional webhook handler",
+    "WhatsApp Business API event triggers for VIP property leads"
+  ],
+  "scheduleImpactDays": 8,
+  "paymentTerms": "50% advance upon contract signing, 50% upon final acceptance testing in Dubai."
+}
